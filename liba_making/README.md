@@ -13,6 +13,6 @@
 ## 정적라이브러리 실행파일 생성
  - gcc -Wall -g -o calc calc.c -L./lib -lcalc
  	>
-	> -L옵션을 통해 위치를 가르쳐준다.<br>
+	> L옵션을 통해 위치를 가르쳐준다.<br>
 	> -lcalc : 민약 정적라이브러리 파일명이 libcalc.a 이면 lib을 -l로 치환하고 .a를 지운 형태로 입력.
 	>
