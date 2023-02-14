@@ -1,7 +1,7 @@
 ## 정적라이브러리 만들기
 
 - 파일 구조<br>
-![structure](./img/structure_linked.png)
+![structure](./img/structure_linked.jpg)
 
 ### liblqueue.a 만들기
 - g++ -Wall -g -o lqueue.o -c lqueue.cc
@@ -12,4 +12,4 @@
 - g++ -Wall -g -o main main.o L./lib -llqueue
 
 ### 정적라이브라리가 포함된 main.exe 파일크기확인<br>
-![image](./img/data_size)
+![image](./img/data_size.jpg)

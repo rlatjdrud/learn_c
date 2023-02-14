@@ -1,7 +1,7 @@
 ## 동적라이브러리 만들기
 
 - 파일 구조<br>
-![structure](./img/structure_linked.png)
+![structure](./img/structure_linked.jpg)
 
 ### liblqueue.so 만들기
 - g++ -fPIC -Wall -g -o lqueue.o -c lqueue.cc
@@ -15,4 +15,4 @@
 - g++ -Wall -g -o main main.o -llqueue
 
 ### 동적라이브러리가 포함된 main.exe 파일크기확인<br>
-![image](./img/data_size2)
+![image](./img/data_size2.jpg)
