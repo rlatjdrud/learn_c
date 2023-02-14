@@ -1,4 +1,5 @@
 ## 정적라이브러리 만들기
+- 컴파일 시 liblqueue.a 파일을 실행파일에 실어서 파일용량이 크나 실행속도가 빠르다.
 
 - 파일 구조<br>
 ![structure](./img/structure_linked.jpg)
