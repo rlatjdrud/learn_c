@@ -14,5 +14,5 @@
 - g++ -Wall -g -o main.o -c main.cc 
 - g++ -Wall -g -o main main.o -llqueue
 
-### 동적라이브러리가 포함된 main.exe 파일크기확인<br>
+### 동적라이브러리를 사용한 main.exe 파일크기확인<br>
 ![image](./img/data_size2.jpg)
