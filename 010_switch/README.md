@@ -9,6 +9,8 @@
 ##### break는 한 루프를 종료시킨다.<br>
 
 ## switch : 한 기준값을 두고 다양한 경우로 나눌 수 있다.
+>for(i = 0; argv[1][i] != '\0'; i++)<br>
+>char letter = argv[1][i];<br>
 >switch(letter)<br>
 >case : 'a'<br>
 >  printf("a"); break;<br>
