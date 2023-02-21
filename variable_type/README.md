@@ -7,5 +7,5 @@
 ||unsigned int|4byte|0 ~ 2^32|%u|
 ||long long int|8byte|-2^63 ~ 2^63|%lld|
 ||short|2byte|-2^15 ~ 2^15|%d|
-|실수형 변수|float|4byte|3.4*10^-37 ~ 3.4*10^38|%c|
-||double|8byte|1.7*10^-307 ~ 3.4*10^308|%u|
+|실수형 변수|float|4byte|3.4*10^-37 ~ 3.4*10^38|%f|
+||double|8byte|1.7*10^-307 ~ 3.4*10^308|%lf|
