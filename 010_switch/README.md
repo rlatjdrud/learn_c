@@ -10,11 +10,11 @@
 
 ## switch : 한 기준값을 두고 다양한 경우로 나눌 수 있다.
 >for(i = 0; argv[1][i] != '\0'; i++)<br>
->char letter = argv[1][i];<br>
+>{char letter = argv[1][i];<br>
 >switch(letter)<br>
 >case : 'a'<br>
 >  printf("a"); break;<br>
 >case : 'b'<br>
 >  printf("b"); break;<br>
- 
+>}
 - letter가 'a'이면 a를 출력하고 for문의 한 루프를 끝낸다.
