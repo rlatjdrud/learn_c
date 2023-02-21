@@ -5,5 +5,5 @@
 > argv[0][0]=. argv[0][1]=/, argv[0][2]=e argv[0][3]=x 이런 식으로 행렬 argv[0]에 저장된다.<br>
 > argv[1][0] = Z, argv=[1][1] = e, argv[1][2]= d 로 argv[1]에 저장된다<br>
 
-## return은 함수를 종료시킨다.<br>
-## break는 한 루프를 종료시킨다.<br>
+### return은 함수를 종료시킨다.<br>
+### break는 한 루프를 종료시킨다.<br>
