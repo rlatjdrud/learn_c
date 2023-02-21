@@ -18,7 +18,7 @@ int main(int argc, char* argv[])
 	int *cur_age = ages;
 	char **cure_name = names;
 
-	for(i=0; i<count; i++)
+	for(i=count-1; i>=0; i--)
 	{
 		printf("%s is %d years alive.\n",*(cure_name+i),*(cur_age+i));
 	}

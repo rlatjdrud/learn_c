@@ -3,9 +3,9 @@
 int main()
 {
 	
-	int arr[] = {1,2,3,4,5};
-	int* p = arr;
-	printf("%u | %u | %u ",&arr,&arr[0],p);
+	char* arr[] = {"seoul","daegu","sinla","busan"};
+	char** p = arr;
+	printf("%u | %u | ",&arr[0],&p);
 	return 0;
 
 }
