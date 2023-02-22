@@ -9,6 +9,6 @@
 -문자열은 마지막에 '\0'를 포함하고 있으므로 눈에 보이는 문자열보다 1byte 더 차지한다.<br> 
 
 >char name[] = "ZED"; <br> 
->총 name배열은 총 4byte를 차지한다.<br> 
+>name 배열은 총 4byte를 차지한다.<br> 
 >sizeof(name)/sizeof(char)은 배열의 원소갯수인 4가 된다.<br> 
 
