@@ -16,4 +16,5 @@
 
 ## isalpha 와 isblank
 ![ex14_3](./img/ex14_3.jpg)<br>
-
+- isalpha(ch) ch가 __대문자 알파벳__ 이면 return 1  소문자알파벳이면 __return 2__ 그렇지않으면 __return 0__ 
+- 
