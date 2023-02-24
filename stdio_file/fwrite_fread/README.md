@@ -18,7 +18,7 @@
 >데이터를 다 쓰고난 후 __rewind함수 또는 fseek함수__ 를 이용해 위치표시자를 초기화 한다.<br>
 
 
-### int fread(FILE* stream long int offset, int origin) 함수
+### int fseek(FILE* stream long int offset, int origin) 함수
 - stream : 작업을 수행할 스트림 주소를 가리키는 포인터
 - offset : origin에서 얼마나 떨어진 위치에 위치표시자를 둘 것인가
 - origin
@@ -28,3 +28,5 @@
 |SEEK_SET|파일의 시작|
 |SEEK_CUR|현재파일의 포인터위치|
 |SEEK_END|파일의 끝|
+
+### fseek(pfile,0,SEEK_SET)과 rewind 
