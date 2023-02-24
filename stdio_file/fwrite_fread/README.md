@@ -29,4 +29,4 @@
 |SEEK_CUR|현재파일의 포인터위치|
 |SEEK_END|파일의 끝|
 
-### fseek(pfile,0,SEEK_SET)과 rewind 
+### fseek(pfile,0,SEEK_SET)과 rewind 함수는 같은 기능을 수행한다.
