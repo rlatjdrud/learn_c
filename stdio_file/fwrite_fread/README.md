@@ -21,9 +21,8 @@
 ### int fread(FILE* stream long int offset, int origin) 함수
 - stream : 작업을 수행할 스트림 주소를 가리키는 포인터
 - offset : origin에서 얼마나 떨어진 위치에 위치표시자를 둘 것인가
-
-
 - origin
+
 |상수|위치표시자의 위치|
 |:-:|:-:|
 |SEEK_SET|파일의 시작|
