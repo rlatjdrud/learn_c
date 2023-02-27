@@ -9,4 +9,5 @@
 ## 빅 엔디안 리틀 엔디안
 ![union2](./img/union2.jpg)
 
+## 리틀 엔디안 출력
 ![union3](./img/union3.jpg)
