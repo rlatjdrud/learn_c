@@ -6,7 +6,7 @@
 
 ![union1](./img/union1.jpg)
 
-## 빅 엔디안 리틀엔디안
+## 빅 엔디안 리틀 엔디안
 ![union2](./img/union2.jpg)
 
 ![union3](./img/union3.jpg)
