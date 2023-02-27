@@ -2,6 +2,8 @@
 
 ![ex16](./img/ex16.jpg)
 
+## Union 
+
 ![union1](./img/union1.jpg)
 
 ![union2](./img/union2.jpg)
